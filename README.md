@@ -5,4 +5,4 @@
 
 ⏱每周一更新
 
-👓在线查看地址：https://leihuoux.github.io/weekly/
+👓在线查看地址： https://go7hic.github.io/weekly/
