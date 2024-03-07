@@ -7,4 +7,4 @@
 
 👓在线查看地址： https://go7hic.github.io/weekly/
 
-暂时在 notion 上更新，查看：https://dyy.notion.site/c1f91a06c5314d3bab44de8315c0fed6?v=ae488b3e28a548519b6ee42300d3fb9d&pvs=4
+‼️ 暂时在 notion 上更新，查看：https://dyy.notion.site/c1f91a06c5314d3bab44de8315c0fed6?v=ae488b3e28a548519b6ee42300d3fb9d&pvs=4
