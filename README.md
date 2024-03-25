@@ -5,5 +5,4 @@
 
 ⏱ 每周一更新
 
-👓 Github 只做备份，你可以在 https://quail.ink/lazyweekly 或者 https://yihang.zhubai.love/ 订阅查看
-
+👓 Github 只做备份，你可以在 https://weekly.dyy.im 或者 https://yihang.zhubai.love/ 订阅查看
